@@ -5,7 +5,7 @@
 📫 Contact: cnscforever@foxmail.com
 😄 Technical manifesto: Code is art, architecture is philosophy
 ⚡ Hardcore achievements:
-▶️ Led the development of the first AI video generation platform in China (with daily active users of over 500,000).
+▶️ Led the development of the AI video generation platform (with daily active users of over 500,000).
 ▶️ Designed a real-time video synchronization system (with a delay of less than 100ms and supporting tens of thousands of people on the same screen).
 ▶️ Open source projects have accumulated over 12,000 stars 🌟 and been adopted by more than 500 enterprises.
 
